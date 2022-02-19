@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "762400501603",
+    "firebase_url": "https://marioplan-ffae6.firebaseio.com",
+    "project_id": "marioplan-ffae6",
+    "storage_bucket": "marioplan-ffae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762400501603:android:27c2aaa17fe94dc8e0ad56",
+        "android_client_info": {
+          "package_name": "com.test.pizza_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762400501603-agv80fi3fkoo2kdnm2n6bqfpeqe1mmnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_QybmWxvAFvt9luZBqwcp5X18qe5c2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762400501603-agv80fi3fkoo2kdnm2n6bqfpeqe1mmnv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762400501603-q8a3phd6io0r4h4v0cd09ousdb54c5d7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.text.pizza-test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
